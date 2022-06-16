@@ -1,0 +1,26 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: large;
+}
+
+#instructbtn
+{
+    float: right;
+}
+
+.footer
+{
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+    line-height: 2;
+    margin: 0px;
+    bottom: 0;
+    position: fixed;
+}
